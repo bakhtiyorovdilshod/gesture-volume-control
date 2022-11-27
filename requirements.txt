@@ -1,0 +1,13 @@
+opencv-python==4.6.0.66
+mediapy==1.1.2
+mediapipe==0.8.11
+pycaw==20220416
+comtypes==1.1.14
+osascript
+
+
+
+
+
+
+
